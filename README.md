@@ -36,7 +36,7 @@ This repository highlights real-world HR applications of data analytics, demonst
     - Explores key trends and patterns in employee attrition, using visualizations and statistical insights to inform model development.
 7. [Model Development - Jupyter Notebook](Resources/JPNB_Model_Development.ipynb)
     - Details the predictive modeling process, including feature selection, model training (logistic regression, decision trees, random forest, and XGBoost), hyperparameter tuning, and evaluation.
-8. [Final Executive Report]([Resources/06_C3_Tableau_Summary_Dashboard.md](https://www.canva.com/design/DAGgDgFKfWY/9Zz-sN37dAtV2MHR21pbYw/view?utm_content=DAGgDgFKfWY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0c8b74c729))
+8. [Final Executive Report](https://www.canva.com/design/DAGgDgFKfWY/9Zz-sN37dAtV2MHR21pbYw/view?utm_content=DAGgDgFKfWY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0c8b74c729)
     - A concise business report summarizing findings, model insights, and actionable HR recommendations for mitigating attrition risks.
 9. [Addtional Slide Presentation](https://www.canva.com/design/DAGgDslLy2Q/OJxVu1KgBz91a2crJsjsdQ/view?utm_content=DAGgDslLy2Q&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4f61f6a9d5)
     - A LinkedIn-ready carousel slide deck summarizing key project insights in an engaging, visual format.
